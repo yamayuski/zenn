@@ -1,0 +1,13 @@
+{
+  "name": "il-m-yamagishi-zenn",
+  "version": "1.0.0",
+  "description": "Zenn Articles & Books",
+  "type": "module",
+  "scripts": {},
+  "keywords": [],
+  "author": "Masaru Yamagishi <m.yamagishi90+git@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "zenn-cli": "^0.1.154"
+  }
+}
