@@ -16,5 +16,8 @@ price: 0 # FREE!
 chapters:
   - what-is-babylonjs
   - playground
+  - cameras
+  - lights
+  - meshes
   - materials
   - shaders
