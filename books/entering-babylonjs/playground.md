@@ -8,11 +8,13 @@ https://playground.babylonjs.com/
 
 [こちら](https://playground.babylonjs.com/)にアクセスしてみてください。左側にソースコード、右側に球体と地面が表示されたと思います。これは Playground と呼ばれる環境で、非常に簡単に Babylon.js を体験してみることが出来ます。 Playground なので **「遊び場」** ですね。
 
-![](/images/books/entering-babylonjs/playground_01.png)
+![Overview](/images/books/entering-babylonjs/playground/overview.png)
 
 Playground では、 1 ファイルのソースコードを使ってリアルタイムに Babylon.js を使ったレンダリングを体験することが出来ます。まず最初は、この Playground を使ってみるのが一番手っ取り早いです。
 
 ここで書いたコードはクラウド上に保存することができ、公式、非公式含め大量の Playground が登録されています。
+
+![Screen Space Reflections](/images/books/entering-babylonjs/playground/ssr.png)
 
 外部にモデルファイルやテクスチャを置いて、それを読み込むことも可能です。例えば、[水たまりの反射が綺麗な「スクリーンスペースリフレクション」機能のデモ Playground](https://playground.babylonjs.com/#PIZ1GK#1116) です。このような写実的な表現を数十行のコードで実現可能なのが、 Babylon.js の特徴です(事前にモデルの用意が必要ではありますが)。
 
@@ -40,13 +42,13 @@ JavaScript の場合は `createScene` 関数が、 TypeScript の場合は `Play
 
 エラーなどはブラウザの開発者ツール(F12)のコンソールタブで確認することが可能です。コンソールは常に開いておくと良いと思います。
 
-![alt text](/images/books/entering-babylonjs/playground_02.png)
+![Console](/images/books/entering-babylonjs/playground/console.png)
 
 コンソールに注意書きのようなものがいくつか出てくることがありますが、赤いエラー文以外は無視してもらって構いません。
 
 ### メニューバー
 
-![](/images/books/entering-babylonjs/playground_03.png)
+![Menu bar](/images/books/entering-babylonjs/playground/menubar.png)
 
 左から順に説明していきます。
 
@@ -66,7 +68,7 @@ JavaScript の場合は `createScene` 関数が、 TypeScript の場合は `Play
 
 ### Inspector(インスペクタ)
 
-![](/images/books/entering-babylonjs/playground_04.png)
+![Inspector](/images/books/entering-babylonjs/playground/inspector.png)
 
 インスペクタは Babylon.js の 3D シーンの詳細情報を閲覧したり、編集することが出来るツールです。
 
@@ -117,13 +119,13 @@ Babylon.js の API は `BABYLON` という変数にほとんど格納されて�
 1. `Alt+Enter` で反映する
 1. 良い所まで作れたら `Ctrl+S` で保存する(専用の URL を生成する)
 
-![](/images/books/entering-babylonjs/playground_05.png)
+![Save](/images/books/entering-babylonjs/playground/save.png)
 
 保存する時にこのようなダイアログが出ます。内容は適当で構いませんが、適切な内容にしておくと Playground の検索にヒットしやすくなります。
 
 OK を押すと、 URL が発行されます。
 
-![](/images/books/entering-babylonjs/playground_06.png)
+![New URL](/images/books/entering-babylonjs/playground/newurl.png)
 
 この URL をブックマークにしておくことをお勧めします。
 

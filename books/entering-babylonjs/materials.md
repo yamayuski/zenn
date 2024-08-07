@@ -8,4 +8,4 @@ TBD
 
 https://nme.babylonjs.com/
 
-![](/images/books/entering-babylonjs/materials_0x.png)
+![Node Material Editor](/images/books/entering-babylonjs/materials/node_material_editor.png)
