@@ -28,7 +28,7 @@ https://www.babylonjs.com/
 
 [Physically Based Rendering(物理ベースのレンダリング)](https://ja.wikipedia.org/wiki/%E7%89%A9%E7%90%86%E3%83%99%E3%83%BC%E3%82%B9%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0) と [glTF 2.0(オープンソースの 3D アセット表現規格)](https://ja.wikipedia.org/wiki/GlTF#glTF_2.0) を強力にサポートする、ブラウザ上で動作する [WebGL 1.0/2.0](https://ja.wikipedia.org/wiki/WebGL), [WebGPU](https://ja.wikipedia.org/wiki/WebGPU) のラッパーフレームワークです。 Microsoft がコアチームとなって主にコントリビュートしているオープンソースのプロジェクトとなっています。
 
-さて、様々なワードが出ましたので一つずつ紹介していきます。
+さて、様々なワードが出ましたので一つずつ紹介していきます。「とりあえず動くコードが書いてみたい！」という方は、飛ばして次の章へ進んでいただいて構いません。
 
 ### Physically Based Rendering(PBR)
 
