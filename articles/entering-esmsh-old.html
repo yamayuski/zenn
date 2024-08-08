@@ -1,0 +1,7 @@
+<canvas id="canvas"></canvas>
+<script src="https://cdn.babylonjs.com/babylon.js"></script>
+<script>
+  const engine = new BABYLON.Engine(document.getElementById("canvas"));
+  const scene = new BABYLON.Scene(engine);
+  engine.runRenderLoop(() => scene.render());
+</script>

@@ -3,11 +3,18 @@
   "version": "1.0.0",
   "description": "Zenn Articles & Books",
   "type": "module",
-  "scripts": {},
+  "scripts": {
+    "preview": "zenn preview",
+    "lint": "markdownlint-cli2 \"**/*.md\" \"#node_modules\" \"#README.md\""
+  },
   "keywords": [],
   "author": "Masaru Yamagishi <m.yamagishi90+git@gmail.com>",
   "license": "Apache-2.0",
   "dependencies": {
     "zenn-cli": "^0.1.154"
+  },
+  "devDependencies": {
+    "markdownlint": "^0.34.0",
+    "markdownlint-cli2": "^0.13.0"
   }
 }

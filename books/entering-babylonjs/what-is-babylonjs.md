@@ -12,7 +12,7 @@ title: "Babylon.js とは"
 
 高校時代は C# を用いて DirectX 9 のアプリケーションを作れる [XNA Framework](https://ja.wikipedia.org/wiki/Microsoft_XNA) と呼ばれる Microsoft のフレームワークを使って 3D ゲームを作ろうとし挫折していました(あの頃は技術力が足りなかった)。このフレームワークは今は [MonoGame](https://monogame.net/) としてオープンソース化され、例えば [Mercenary Kings](https://mercenarykings.com/) や [CELESTE](https://www.celestegame.com/) のような有名ゲームでも採用されています。採用事例は [MonoGame Showcase](https://monogame.net/showcase/) に一覧されています。
 
-https://www.youtube.com/watch?v=qk0Q5609sXo
+<https://www.youtube.com/watch?v=qk0Q5609sXo>
 
 ずいぶん昔の動画ですが、 XNA Framework と C# サーバーを用意してネットワークテストを行ったりしていました。
 
@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=qk0Q5609sXo
 
 さて、今回この本では Babylon.js と呼ばれる、ブラウザ 3D フレームワークの紹介をします。
 
-https://www.babylonjs.com/
+<https://www.babylonjs.com/>
 
 どんなことが出来るかは、上記公式ホームページのサンプルを見て頂くのが一番分かりやすいと思いますのでご覧ください。
 
