@@ -1,8 +1,8 @@
 title: "Babylon.js で 3D ゲーム開発を始めよう！"
 summary: |-
   本書では、Babylon.js を使って 3D ゲームを開発する方法を解説します。
-  Babylon.js は、WebGL を使ってブラウザ上で 3D グラフィックスを描画するためのライブラリです。
-  本書では、Babylon.js の基本的な使い方から、3D ゲームの開発に必要な知識を解説します。
+  Babylon.js は、WebGL/WebGPU を使ってブラウザ上で 3D グラフィックスを描画するためのライブラリです。
+  Babylon.js の能力と特徴を理解し、実際にコードを書きながら学んでいきます。
 
 topics:
   - "babylonjs"
@@ -15,11 +15,10 @@ published: false
 price: 0 # FREE!
 chapters:
   - what-is-babylonjs
-  - playground
   - comparison
+  - playground
   - editor
-  - cameras
-  - lights
+  - camera-and-light
   - meshes
   - materials
   - shaders

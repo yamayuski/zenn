@@ -20,7 +20,7 @@ Playground では、 1 ファイルのソースコードを使ってリアルタ
 
 また、簡単なテクスチャは API として提供されており、自分でファイルを公開しなくても利用することが可能です。
 
-[こちら](https://playground.babylonjs.com/#8WLDZY#6)は私が作成した Playground で、 `Assets.textures` 以下に存在するテクスチャを読み込み、一覧で表示するシーンとなっています。
+[こちら](https://playground.babylonjs.com/#8WLDZY#6)は私が作成した Playground で、 `Assets.textures` グローバル変数以下に存在するテクスチャを読み込み、一覧で表示するシーンとなっています。
 
 クリックすることで画像の URL を取得出来るので、それを `new BABYLON.Texture("https://assets.babylonjs.com/textures/amiga.jpg", scene);` のようにして読み込むことが可能です。
 
