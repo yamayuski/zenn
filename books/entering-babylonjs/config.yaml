@@ -16,8 +16,12 @@ price: 0 # FREE!
 chapters:
   - what-is-babylonjs
   - playground
+  - comparison
+  - editor
   - cameras
   - lights
   - meshes
   - materials
   - shaders
+  - importing-assets
+  - game-loop
