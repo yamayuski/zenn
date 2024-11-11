@@ -1,8 +1,8 @@
 ---
 title: "私たちの t_wada になるメリット"
 emoji: "🦁"
-type: "tech"
-topics: ["テスト","プロジェクトマネジメント","contest2024"]
+type: "idea"
+topics: ["テスト","プロジェクトマネジメント"]
 published: true
 ---
 
@@ -12,13 +12,13 @@ published: true
 
 ## t_wada さんとは
 
-<https://twitter.com/t_wada>
+https://twitter.com/t_wada
 
 主にテストを書くことの重要性を説いているプログラマーでありエヴァンジェリストのような存在です。
 
 直接の面識はありませんが、 t_wada さんのたくさんのスライド資料はどれもとても参考になる優れたものです。
 
-<https://speakerdeck.com/twada>
+https://speakerdeck.com/twada
 
 どのスライドも読みやすく、内容も分かりやすいので、プログラマーの皆さんは是非読んでみて欲しいです。
 
@@ -72,7 +72,7 @@ A さんがテストコードを書いていた部分に関しては修正を加
 
 t_wada さんは何か特殊な能力を持っているわけではなく、一介の人間です。であれば、模倣して同じように振る舞えば、同じような効果がチームに反映されるのではないかと考えました。
 
-<https://speakerdeck.com/twada/working-with-legacy-code-the-true-recor>
+@[speakerdeck](31a5f9cf7de2438b94c66deb15c83511)
 
 実録レガシーコード改善というスライドがあります。これは実際にレガシーコードと呼べる題材を、順序立てて改善していく手法を紹介しています。
 
